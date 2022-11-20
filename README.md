@@ -23,11 +23,8 @@
 
 ### Data science
 
-
-
-
-### Data engineer
-
+- #### <a href="https://github.com/guilhermeianipontes/Titanic">Titanic</a>
+Analise exploratória e classificação do famoso Dataset dos passageiros do Titanic
 
 ### Contato
 
