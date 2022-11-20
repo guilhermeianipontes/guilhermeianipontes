@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá! Sou Guilherme Iani, Bem-vindo(a) ao meu repositório 👋
+
+[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+]
+### Tecnologias do meu dia a dia
+
 
 <!--
 **guilhermeianipontes/guilhermeianipontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
