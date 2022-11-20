@@ -1,21 +1,35 @@
-### Olá! Sou Guilherme Iani, Bem-vindo(a) ao meu repositório 👋
+## Olá! Sou Guilherme Iani, Bem-vindo(a) ao meu repositório 👋
 
-[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-]
+
 ### Tecnologias do meu dia a dia
+![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Blog](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Blog](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Blog](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Blog](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+### Formação
+ - Bacharel interdisciplinar em Ciência e tecnologia - Universidade Federal de São Paulo
+ - Futuro Engenheiro Biomédico
+
+### Estudando
+ - Machine learning
+ - Estatística
+ - Power Bi
+ - SQL
+ - API Rest
+
+## Meu Portifólio
+
+### Data science
 
 
-<!--
-**guilhermeianipontes/guilhermeianipontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data engineer
+
+
+### Contato
+
+- guilherme.iani00@gmail.com
+- guilherme.iani@unifesp.br
